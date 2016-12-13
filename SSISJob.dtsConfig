@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+  <DTSConfigurationHeading>
+    <DTSConfigurationFileInfo GeneratedBy="ANALYTICS\GuiJa" GeneratedFromPackageName="Package" GeneratedFromPackageID="{6762026E-1BB4-41E3-B084-4763F092C7C3}" GeneratedDate="3/18/2014 9:57:29 AM"/>
+  </DTSConfigurationHeading>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[LocalHost.Destination].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Data Source=.;Initial Catalog=MDCAlertsData;Provider=SQLNCLI10.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{53F54FF9-D15B-4E5A-949B-010229CBFDF6}LocalHost.Destination;</ConfiguredValue>
+  </Configuration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[USDDatabase].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Data Source=sz1-dev-mdc-d01\w03;User ID=USD;password=USD4Moodys.com!;Initial Catalog=USD;Provider=SQLNCLI10.1;Persist Security Info=True;Application Name=SSIS-Package-{102F1781-8909-4272-A90D-837B42E880C1}sz1-dev-mdc-d01\w03.USD.USD;Auto Translate=False;</ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>
